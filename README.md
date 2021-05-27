@@ -6,6 +6,5 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/65621247/119857273-18bd9800-bf1c-11eb-8525-44bcbcea93a1.png">
 </p>
-```
-pip3 install -r requirements.txt
+```pip3 install -r requirements.txt
 ```
